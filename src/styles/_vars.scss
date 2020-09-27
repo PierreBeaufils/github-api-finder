@@ -1,0 +1,19 @@
+// Generic
+$primary-color: #e52354;
+$alt-color: #BDC3C7;
+$dark-color: #101010;
+$light-color: #fff;
+$gutter: 2rem;
+
+// Global
+$global-font: 'Roboto', sans-serif;
+$global-font-weight: 300;
+
+// Title
+$title-font: 'Oswald', sans-serif;
+$title-font-weight: 500;
+$title-color: #232323;
+
+// Post
+$post-text-color: lighten($title-color, 30%);
+$post-hover-color: #f7f7f7;

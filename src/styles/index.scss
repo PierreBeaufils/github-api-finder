@@ -1,0 +1,26 @@
+@use 'reset';
+@use 'vars';
+
+.root {
+  background-color: #BDC3C7;
+  font-family: Helvetica, sans-serif, sans-serif;
+}
+/*
+body {
+  font-family: vars.$global-font, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #ECF0F1;
+  padding: 1em;
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3 {
+  font-family: vars.$title-font, sans-serif;
+  font-weight: vars.$title-font-weight;
+  line-height: 1.2;
+}
+*/
